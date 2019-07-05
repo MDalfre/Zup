@@ -63,7 +63,6 @@ public class ProvaZup {
         }
 
         System.out.println("Palavra Original: " + palavra);
-        System.out.println("Palavra Inversa: " + palavrafinal);
         System.out.println();
 
     }
@@ -159,7 +158,11 @@ public class ProvaZup {
     public static void Questao6() {
         System.out.println("------Questão6--------");
         System.out.println();
-        System.out.println("3");
+        System.out.println("( ) 12345");
+        System.out.println("( ) 33333");
+        System.out.println("( ) 1245");
+        System.out.println("( ) 01234");
+        System.out.println("(X) 3");
         System.out.println();
 
     }
